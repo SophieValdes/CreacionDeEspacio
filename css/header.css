@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 35px 15px 35px;
+    text-decoration: none;
+}
+img{
+    width: 120px;
+ 
+}
+.nav{
+    list-style: none;
+    width: 300px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+}
